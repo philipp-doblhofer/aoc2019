@@ -4,4 +4,5 @@ Solutions for the [Advent of Code 2019 puzzles](https://adventofcode.com/2019) w
 
 ## Puzzles
 
-[📝 Day 1](https://www.philipp-doblhofer.at/en/blog/advent-of-code-day-1/)
+[📝 Day 1](https://www.philipp-doblhofer.at/en/blog/advent-of-code-day-1/)\
+[📝 Day 2](https://www.philipp-doblhofer.at/en/blog/advent-of-code-2019-day-2/)
