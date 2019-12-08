@@ -10,5 +10,6 @@ Solutions for the [Advent of Code 2019 puzzles](https://adventofcode.com/2019) w
 [📝 Day 4](https://www.philipp-doblhofer.at/en/blog/advent-of-code-2019-day-4/)\
 [📝 Day 5](https://www.philipp-doblhofer.at/en/blog/advent-of-code-2019-day-5/)\
 [📝 Day 6](https://www.philipp-doblhofer.at/en/blog/advent-of-code-2019-day-6/)\
-[📝 Day 7](https://www.philipp-doblhofer.at/en/blog/advent-of-code-2019-day-7/)
+[📝 Day 7](https://www.philipp-doblhofer.at/en/blog/advent-of-code-2019-day-7/)\
+[📝 Day 8](https://www.philipp-doblhofer.at/en/blog/advent-of-code-2019-day-8/)
 
